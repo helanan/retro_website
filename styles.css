@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
     font-family: 'ostrich_sansbold';
     src: url('ostrichsans-bold-webfont.woff2') format('woff2'),
@@ -10,6 +11,26 @@ body {
 	font-family: 'ostrich_sansbold', Optima, sans-serif;
 	color: pink;
 	padding: 20px;
+=======
+}
+
+.top-nav {
+	background-color: goldenrod;
+	height: 45px;
+}
+
+.top-nav li{
+	list-style-type: none;
+	font-family: "Arial"; 
+	padding: 0 9px;
+	float: left;
+	margin: 10px 15px 0 15px;
+	cursor: pointer;
+}
+
+body{
+	background-color: pink;
+>>>>>>> 19e06e364c2c50a2a3772097d3f2ebf96be35c99
 }
 
 .top-nav {
